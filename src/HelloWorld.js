@@ -8,7 +8,4 @@ function HelloWorld(props) {
     )
 
 }
-
 export default HelloWorld;
-
-
