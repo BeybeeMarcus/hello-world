@@ -1,9 +1,10 @@
 
 
-function HelloWorld() {
+function HelloWorld(props) {
     return(
-        
-            <p>Hello!!! Ang Bilis </p>
+        <>
+            <p>{props.anogustomosabihin}</p>
+        </>
     )
 
 }
