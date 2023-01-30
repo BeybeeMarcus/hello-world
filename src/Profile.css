@@ -1,0 +1,58 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+img {
+    display: block;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    margin: auto;
+    width: 20%;
+    height: 25%;
+    margin-top: 50px;
+}
+
+    
+ #job1 {
+    color: Red;
+}
+ #job2 {
+    color: orange;
+}
+ #job3 {
+    color: violet;
+}
+ #job4 {
+    color: brown;
+}
+ #job5 {
+    color: green
+}
+ #job6 {
+    color: yellowgreen;
+}
+ #job7 {
+    color: blue;
+}
+ #job8 {
+    color: blue;
+}
+ #job9 {
+    color: rgb(15, 129, 223);
+    animation: flip-vertical-right;
+ }
+
+ 
+#nName {
+    color: red;
+}
+
+
+  
+ 
+  
+
