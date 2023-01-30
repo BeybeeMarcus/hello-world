@@ -3,11 +3,12 @@
 
 function Location(props) {
     return(
+       <p>
         
-        <p>
+            
             I am {props.name} from {props.city} of {props.village} village       
         </p>
-
+        
     )
 
 }

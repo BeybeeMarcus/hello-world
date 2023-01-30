@@ -1,10 +1,10 @@
-
+import Location from "./Location";
 
 function HelloWorld(props) {
     return(
         <>
-            <p>{props.anogustomosabihin}</p>
-        </>
+            <p>Hello World {props.anogustomosabihin}</p>
+            </>
     )
 
 }
