@@ -3,7 +3,9 @@ import HelloWorld from './HelloWorld';
 function App() {
   return (
     <>
-    <HelloWorld></HelloWorld>
+    <HelloWorld>
+      
+    </HelloWorld>
     </>
   )
 }
